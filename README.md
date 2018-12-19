@@ -8,3 +8,6 @@ Repository for Front-End Course Kottans
 
 ![course-screen](img/udacity.png)
 
+Некоторые моменты записывала, чтобы лучше запомнить :)
+
+![](img/dog-log.png)
