@@ -10,4 +10,4 @@ Repository for Front-End Course Kottans
 
 Некоторые моменты записывала, чтобы лучше запомнить :)
 
-<img src="img/dog-log" alt="dog" style="width: 300px;"/>
+![](img/dog-log.jpg =300x337)
