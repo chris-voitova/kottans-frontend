@@ -10,4 +10,4 @@ Repository for Front-End Course Kottans
 
 Некоторые моменты записывала, чтобы лучше запомнить :)
 
-![](img/dog-log.jpg =300x337)
+![](img/dog-log.jpg)
