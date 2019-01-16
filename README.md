@@ -23,7 +23,9 @@ Repository for Front-End Course Kottans
 ## Intro to HTML and CSS
 
 ![](task_html_css_intro/css-udacity.png)
+
 ![](task_html_css_intro/html-intro.png)
+
 ![](task_html_css_intro/css-intro.png)
 
 Тема для меня была не новой, поэтому далась легко. Повторила то, что знала.
