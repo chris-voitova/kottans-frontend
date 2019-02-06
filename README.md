@@ -29,3 +29,12 @@ Repository for Front-End Course Kottans
 ![](task_html_css_intro/css-intro.png)
 
 Тема для меня была не новой, поэтому далась легко. Повторила то, что знала.
+
+## Responsive Web Design
+
+![](task_responsive_web_design/responsive-web.png)
+
+![](task_responsive_web_design/froggy.png)
+
+Тема не новая, но хорошо структурировала информацию по адаптивности и флексам.
+Flexbox froggy проходила уже несколько раз, когда-то прохождение вызывало трудности, но в этот раз все было очень легко и быстро.
