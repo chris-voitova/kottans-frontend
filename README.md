@@ -39,6 +39,6 @@ Repository for Front-End Course Kottans
 Тема не новая, но хорошо структурировала информацию по адаптивности и флексам.
 Flexbox froggy проходила уже несколько раз, когда-то прохождение вызывало трудности, но в этот раз все было очень легко и быстро.
 
-##HTML & CSS Practice
+## HTML & CSS Practice
 Сверстала поп-ап, студенты p2p сделали ревью, менторы смерджили пулл реквест
 [репозиторий](https://github.com/kris-almort/kottans-popup-practice)
