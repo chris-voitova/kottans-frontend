@@ -65,6 +65,10 @@ Flexbox froggy проходила уже несколько раз, когда-�
 
 [репозиторий](https://github.com/chris-voitova/a-tiny-JS-world)
 
+## Object Oriented JS
+[codewars profile](https://www.codewars.com/users/kris_almort)
+![](task_oop/codewars.png)
+
 
 
 
