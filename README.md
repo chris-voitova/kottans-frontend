@@ -105,3 +105,8 @@ Flexbox froggy проходила уже несколько раз, когда-�
 
 [demo](https://chris-voitova.github.io/memory-pair-game/)
 [code](https://github.com/chris-voitova/memory-pair-game)
+
+## Friends App
+Поработала с асинхронностью, попрактиковалась в js. Ревью помогло еще больше узнать о том, каким должен быть чистый код.
+[demo](https://chris-voitova.github.io/friends-app/)
+[code](https://github.com/chris-voitova/friends-app)
